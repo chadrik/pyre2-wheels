@@ -13,7 +13,7 @@ function pre_build {
 }
 
 function run_tests {
-    cd "$REPO_DIR"
+    # Runs tests on installed distribution from an empty directory
     python --version
-    python tests/test_re.py
+    python -c 'import sys; import re2'
 }
