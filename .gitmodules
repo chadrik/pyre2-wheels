@@ -1,0 +1,6 @@
+[submodule "multibuild"]
+	path = multibuild
+	url = https://github.com/matthew-brett/multibuild.git
+[submodule "pyre2"]
+	path = pyre2
+	url = https://github.com/chadrik/pyre2.git
