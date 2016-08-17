@@ -2,7 +2,7 @@ env:
     global:
         - REPO_DIR=pyre2
         # Commit from your-project that you want to build
-        - BUILD_COMMIT=f9b4634861d50acb30a9a72cf179972f550d763d
+        - BUILD_COMMIT=eb58554ad799347904489186fe209204dac9bbef
         # pip dependencies to _build_ your project
         # - BUILD_DEPENDS="Cython numpy"
         # pip dependencies to _test_ your project.  Include any dependencies
